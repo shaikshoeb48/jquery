@@ -1,0 +1,85 @@
+
+.collapsible1{
+     background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 3vmin;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 5vmin;
+    
+}
+.top{
+    margin-top: 1vmin
+}
+.content1{
+       padding: 0 8vmin;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    width: 50%
+    
+}
+.collapsible2{
+     background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 3vmin;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 5vmin;
+    
+}
+.content2{
+       padding: 0 8vmin;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    width: 50%
+    
+}
+.collapsible3{
+     background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 3vmin;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 5vmin;
+    
+}
+.content3{
+       padding: 0 8vmin;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    width: 50%
+    
+}
+.collapsible4{
+     background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 3vmin;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 5vmin;
+    
+}
+.content4{
+       padding: 0 8vmin;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    width: 50%
+    
+}
+
